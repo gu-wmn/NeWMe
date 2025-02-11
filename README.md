@@ -5,5 +5,5 @@ This is the primary repository for the NeWMe Corpus (Negotiating Word Meaning), 
 * **[Annotation guidelines](https://github.com/gu-wmn/NeWMe/blob/main/Annotation_guidelines.pdf)** 
 * **The corpus website (with browsable annotations)**: TBD
 * **[Code for the web app](https://github.com/gu-wmn/webapp)**
-* **Related code (e.g., regular expressions)**: TBD 
+* **Regular expressions used**: [regex.py](https://github.com/gu-wmn/NeWMe/blob/main/regex.py)
 
